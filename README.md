@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Started creating bugs in 2021 and worked as frontend dev for a consultant agancy in Milan 'til 2023.  <br>📚 I'm getting back into the game after a year-long break up with coding. <br>Currently surfing The Odin Project full stack JS curriculum to get familiar again. <br>🎯 Heading to learn Web Interactions and Animations. GSAP and Framer Motion are waiting for me.<br>🎲 Fun fact: I like to nerd on new design trends, books and videogames. I go trekking whenever I can, I'm vegan and climate change and animal rights activist. And yes, I have a bad, bad thing with skateboards.</p>
+<p align="left">✨ Started creating bugs in 2021 and worked as frontend dev for a consultant agancy in Milan 'til 2023.  <br>📚 I'm getting back into the game after a year-long break up with coding. Currently surfing The Odin Project full stack JS curriculum to get familiar again. <br>🎯 Heading to learn Web Interactions and Animations. GSAP and Framer Motion are waiting for me.<br>🎲 Fun fact: I like to nerd on new design trends, books and videogames. I go trekking whenever I can, I'm vegan and climate change and animal rights activist. And yes, I have a bad, bad thing with skateboards.</p>
 
 ###
 

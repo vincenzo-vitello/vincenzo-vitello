@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Vincenzo here, your 🤌🍕italian🍕🤌 web developer friend.</p>
+<p align="left">Vincenzo here, your 🤌italian🍕 web developer friend.</p>
 
 ###
 

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Vincenzo here, your 🍕italian🤌 web developer friend.</p>
+<p align="left">I'm Vincenzo, your 🍕italian🤌 web developer friend.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">My stack (always in progress)</h2>
+<h2 align="left">My stack (always in progress, life long learner here!)</h2>
 
 ###
 

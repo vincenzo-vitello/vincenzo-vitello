@@ -29,15 +29,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="42" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="42" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=webflow" height="42" alt="webflow logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="42" alt="figma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=webflow" height="42" alt="webflow logo"  />
+  <img width="12" />
 </div>
 
 ###

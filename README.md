@@ -25,8 +25,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="42" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="42" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="42" alt="sass logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="tailwindcss logo"  />

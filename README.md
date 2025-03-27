@@ -25,6 +25,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="42" alt="javascript logo"  />
   <img width="12" />
+<img src="https://skillicons.dev/icons?i=react" height="42" alt="tailwindcss logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
